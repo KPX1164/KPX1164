@@ -1,5 +1,5 @@
 ### Hello 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPX1164&layout=compact&hide=Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPX1164&layout=compact)
 
 
 <!--
